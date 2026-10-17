@@ -1,0 +1,22 @@
+{
+ "img/forest.jpg": {
+  "tool": "higgsfield",
+  "prompt": "Moody night forest festival stage in the mountains of British Columbia (gpt_image_2_5, job 3e78fb78)"
+ },
+ "snd/music.mp3": {
+  "tool": "elevenlabs",
+  "prompt": "melodic bass build and drop, 24 s (eleven_music_v2_5, flow BxLcxYU9rQ7ge91VXdIT)"
+ },
+ "snd/laser.mp3": {
+  "tool": "elevenlabs",
+  "prompt": "bright laser zap shimmer (eleven_text_to_sound_v2, flow BxLcxYU9rQ7ge91VXdIT)"
+ },
+ "snd/forest.mp3": {
+  "tool": "elevenlabs",
+  "prompt": "night mountain forest ambience loop (eleven_text_to_sound_v2, flow BxLcxYU9rQ7ge91VXdIT)"
+ },
+ "snd/crowd.mp3": {
+  "tool": "elevenlabs",
+  "prompt": "forest festival crowd roar at the drop (eleven_text_to_sound_v2, flow BxLcxYU9rQ7ge91VXdIT)"
+ }
+}
